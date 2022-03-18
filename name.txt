@@ -1,0 +1,2 @@
+ssh-keygen -t rsa -C "tranquochuyzz123@mail.com" -f "id_rsa_TranQuocHuya"
+ssh-keygen -t rsa -C "20211tt1283@mail.tdc.edu.vn" -f "id_rsa_TranQuocHuycute"
